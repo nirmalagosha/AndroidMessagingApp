@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643473135310",
+    "firebase_url": "https://vnet-518fd.firebaseio.com",
+    "project_id": "vnet-518fd",
+    "storage_bucket": "vnet-518fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643473135310:android:533698589d1c78f6",
+        "android_client_info": {
+          "package_name": "com.example.vnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643473135310-6oqvqf0v4lvf070o1lu28l553155r20d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvaO6hGRfFpT4TBzUAQqX9Bwr35f4YThw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643473135310-6oqvqf0v4lvf070o1lu28l553155r20d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
